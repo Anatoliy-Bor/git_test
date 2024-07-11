@@ -5,3 +5,6 @@ c = a * b # умножение
 print(c)
 d = a ** b
 print(d)
+
+a = c / b
+print(a)
